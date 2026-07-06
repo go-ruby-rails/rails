@@ -1,0 +1,16 @@
+github.com/go-ruby-actioncable/actioncable v0.0.0-20260706105130-bdb758f32952 h1:t+4LNybU4V9P3ahu6poIAyB8Uqx37r646hP+zBMIzKA=
+github.com/go-ruby-actioncable/actioncable v0.0.0-20260706105130-bdb758f32952/go.mod h1:5DS3icNZKImRwvDP7Kf9IHv+9d6EYtcvRpBALgh/s/Y=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9 h1:4XTbhTdWIviEAgIUcE3Qx6t8yaoz+bvoY3/isde7vww=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
+github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b h1:WZ+4J0wis7E0utwvCnmAIZ7YtthcT5idKJrQurU8RZw=
+github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b/go.mod h1:n9SEnqxWmYIXKgtrIZEiRvGui0lWdCd2GJELRpa44ls=
+github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890 h1:InFlgdub55bYfZs7JFk1ToKS1SaJX8wrqgWuWBylPkI=
+github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0 h1:pfa8IVHmOATwWPBnT3w2dwIYu9PJYxlMJFOjcvT+h5M=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0/go.mod h1:tIZ2td8/ApPpR4CfEJYKAelJ/RplKcaqvRm3NyEbiyY=
+github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7 h1:Wbj+Uo6Ke3wR0GrRr6GfgHhUe9wroG78Jaw7bVXRmlw=
+github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7/go.mod h1:+aVqjlgBiR8H5b1t7tPht4OVAAYCxa/KPQAbv7WzC/M=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983 h1:PPQrmolQwLSsVpDyirNZjB6iPMtCeB/4aoGzuYUZ5cM=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
+github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529 h1:md/l6ifEY6S0Iy1nBk5hVt5BhnWJRqhB08gVEsVvS28=
+github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529/go.mod h1:HEJVI7jQ/BnjiSiu2Wj934QboEAgdv47RNOqvZb+nRw=
