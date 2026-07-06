@@ -40,15 +40,15 @@ carries a machine-readable manifest of them and a blank-import aggregate:
 | actionview | `ActionView` | [go-ruby-actionview/actionview](https://github.com/go-ruby-actionview/actionview) | ✅ |
 | actioncable | `ActionCable` | [go-ruby-actioncable/actioncable](https://github.com/go-ruby-actioncable/actioncable) | ✅ |
 | activestorage | `ActiveStorage` | [go-ruby-activestorage/activestorage](https://github.com/go-ruby-activestorage/activestorage) | ✅ |
-| actionmailer | `ActionMailer` | [go-ruby-actionmailer/actionmailer](https://github.com/go-ruby-actionmailer/actionmailer) | — (not yet shipped) |
-| railties | `Rails::Railtie` | [go-ruby-railties/railties](https://github.com/go-ruby-railties/railties) | — (not yet shipped) |
+| actionmailer | `ActionMailer` | [go-ruby-actionmailer/actionmailer](https://github.com/go-ruby-actionmailer/actionmailer) | ✅ |
+| railties | `Rails::Railtie` | [go-ruby-railties/railties](https://github.com/go-ruby-railties/railties) | ✅ |
 
 The manifest is the single source of truth: `Components()`, `AvailableComponents()`,
 `Lookup(name)`, `ImportPaths()`, and `AggregateImportPaths()` derive every
 component's org, import path, and site URLs from its name, so the catalog cannot
-drift. `actionmailer` and `railties` are catalogued with `Available = false`
-until their go-ruby-* repositories ship; a test keeps the manifest and the
-aggregate exactly in sync.
+drift. Every catalogued component has shipped, so all are `Available = true` and
+blank-imported by `rails/all`; a test keeps the manifest and the aggregate
+exactly in sync.
 
 ## The Rails module
 

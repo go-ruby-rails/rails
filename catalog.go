@@ -54,10 +54,10 @@ var catalog = []Component{
 	{Name: "activejob", Gem: "ActiveJob", Available: true, Description: "background-job framework and queue adapters"},
 	{Name: "actionpack", Gem: "ActionPack", Available: true, Description: "controllers, routing, and request dispatch"},
 	{Name: "actionview", Gem: "ActionView", Available: true, Description: "view rendering and template helpers"},
-	{Name: "actionmailer", Gem: "ActionMailer", Available: false, Description: "email delivery framework"},
+	{Name: "actionmailer", Gem: "ActionMailer", Available: true, Description: "email delivery framework"},
 	{Name: "actioncable", Gem: "ActionCable", Available: true, Description: "WebSocket / pub-sub integration"},
 	{Name: "activestorage", Gem: "ActiveStorage", Available: true, Description: "file attachments and blob storage"},
-	{Name: "railties", Gem: "Rails::Railtie", Available: false, Description: "application boot, engines, and the generators/CLI"},
+	{Name: "railties", Gem: "Rails::Railtie", Available: true, Description: "application boot, engines, and the generators/CLI"},
 }
 
 // Count reports the number of framework components in the manifest.

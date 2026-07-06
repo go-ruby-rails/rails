@@ -23,10 +23,12 @@ package all
 
 import (
 	_ "github.com/go-ruby-actioncable/actioncable"
+	_ "github.com/go-ruby-actionmailer/actionmailer"
 	_ "github.com/go-ruby-actionpack/actionpack"
 	_ "github.com/go-ruby-actionview/actionview"
 	_ "github.com/go-ruby-activejob/activejob"
 	_ "github.com/go-ruby-activemodel/activemodel"
 	_ "github.com/go-ruby-activestorage/activestorage"
 	_ "github.com/go-ruby-activesupport/activesupport"
+	_ "github.com/go-ruby-railties/railties"
 )

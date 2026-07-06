@@ -61,9 +61,10 @@ func TestAvailableComponents(t *testing.T) {
 			t.Errorf("AvailableComponents() returned unavailable %q", c.Name)
 		}
 	}
-	// railties and actionmailer are catalogued but not yet shipped.
-	if len(avail) >= Count() {
-		t.Errorf("expected some unavailable components; avail=%d total=%d", len(avail), Count())
+	// Every catalogued component (including actionmailer and railties) has now
+	// shipped, so the available set equals the full manifest.
+	if len(avail) != Count() {
+		t.Errorf("expected all components available; avail=%d total=%d", len(avail), Count())
 	}
 }
 
@@ -75,8 +76,8 @@ func TestLookup(t *testing.T) {
 	if c.Gem != "ActiveSupport" || !c.Available {
 		t.Errorf("Lookup(activesupport) = %+v, unexpected", c)
 	}
-	if r, ok := Lookup("railties"); !ok || r.Available {
-		t.Errorf("Lookup(railties) = (%+v, %v), want present and unavailable", r, ok)
+	if r, ok := Lookup("railties"); !ok || !r.Available {
+		t.Errorf("Lookup(railties) = (%+v, %v), want present and available", r, ok)
 	}
 	if _, ok := Lookup("nonesuch"); ok {
 		t.Error("Lookup(nonesuch) unexpectedly found")
