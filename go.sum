@@ -4,6 +4,8 @@ github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260706115414-f116fa6c4917 
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260706115414-f116fa6c4917/go.mod h1:CgixBW5KpbPEx+8SCZJQbeVa2WLNB7ObGRRCsjDEY+Y=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9 h1:4XTbhTdWIviEAgIUcE3Qx6t8yaoz+bvoY3/isde7vww=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7 h1:6I7TiTcN/9UwT8nuAr7FZCTYa+TUJvKIwveqnrkB8lQ=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
 github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b h1:WZ+4J0wis7E0utwvCnmAIZ7YtthcT5idKJrQurU8RZw=
 github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b/go.mod h1:n9SEnqxWmYIXKgtrIZEiRvGui0lWdCd2GJELRpa44ls=
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890 h1:InFlgdub55bYfZs7JFk1ToKS1SaJX8wrqgWuWBylPkI=
