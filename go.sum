@@ -8,6 +8,8 @@ github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b h1:W
 github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b/go.mod h1:n9SEnqxWmYIXKgtrIZEiRvGui0lWdCd2GJELRpa44ls=
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890 h1:InFlgdub55bYfZs7JFk1ToKS1SaJX8wrqgWuWBylPkI=
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
+github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a h1:hkdA+E7l8ROsz+rhxyhC0r8dukoun3uRRyjjf7q5nKs=
+github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0 h1:pfa8IVHmOATwWPBnT3w2dwIYu9PJYxlMJFOjcvT+h5M=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0/go.mod h1:tIZ2td8/ApPpR4CfEJYKAelJ/RplKcaqvRm3NyEbiyY=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7 h1:Wbj+Uo6Ke3wR0GrRr6GfgHhUe9wroG78Jaw7bVXRmlw=
