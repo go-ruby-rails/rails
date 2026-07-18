@@ -20,3 +20,5 @@ github.com/go-ruby-mail/mail v0.0.0-20260701122047-67f8e8ec1d6e h1:mBJm+ZY0JP4pK
 github.com/go-ruby-mail/mail v0.0.0-20260701122047-67f8e8ec1d6e/go.mod h1:YJN6l0WpGBz87UAbyHGqnH14iwABfjvrZPUunn9OrNs=
 github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df h1:GQCDL/SGGtHqmDB2IfgCFe7AsgAA2LuhHg0kbbpYoFA=
 github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
+github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949 h1:AKaD3EJnLRnPion6saBubFHnixB1aLiL0CUfWEG7OoM=
+github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
