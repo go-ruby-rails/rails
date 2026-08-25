@@ -9,7 +9,7 @@ require (
 	github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b
 	github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a
 	github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0
-	github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7
+	github.com/go-ruby-activestorage/activestorage v0.0.0-20260717061712-16cc7b480fff
 	github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983
 	github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949
 )
