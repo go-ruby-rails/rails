@@ -1,5 +1,7 @@
 github.com/go-ruby-actioncable/actioncable v0.0.0-20260706105130-bdb758f32952 h1:t+4LNybU4V9P3ahu6poIAyB8Uqx37r646hP+zBMIzKA=
 github.com/go-ruby-actioncable/actioncable v0.0.0-20260706105130-bdb758f32952/go.mod h1:5DS3icNZKImRwvDP7Kf9IHv+9d6EYtcvRpBALgh/s/Y=
+github.com/go-ruby-actioncable/actioncable v0.0.0-20260717061354-49297951bc19 h1:X9M8MkgKcLdaXoV1NN7zsVSB6vznJ0tw+2uC5FVPaOU=
+github.com/go-ruby-actioncable/actioncable v0.0.0-20260717061354-49297951bc19/go.mod h1:5DS3icNZKImRwvDP7Kf9IHv+9d6EYtcvRpBALgh/s/Y=
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260706115414-f116fa6c4917 h1:f1xzBCccdUn49fRLh8XBn/d9OHpcrNa46w6aW0hGjyY=
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260706115414-f116fa6c4917/go.mod h1:CgixBW5KpbPEx+8SCZJQbeVa2WLNB7ObGRRCsjDEY+Y=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9 h1:4XTbhTdWIviEAgIUcE3Qx6t8yaoz+bvoY3/isde7vww=
