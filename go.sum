@@ -22,6 +22,8 @@ github.com/go-ruby-activestorage/activestorage v0.0.0-20260717061712-16cc7b480ff
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260717061712-16cc7b480fff/go.mod h1:+aVqjlgBiR8H5b1t7tPht4OVAAYCxa/KPQAbv7WzC/M=
 github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983 h1:PPQrmolQwLSsVpDyirNZjB6iPMtCeB/4aoGzuYUZ5cM=
 github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260820071506-344413ecaa5f h1:dUPhMtIOtGvwnXLsgBZH3t/XsI7xANhtFg0knSp+mDw=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260820071506-344413ecaa5f/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529 h1:md/l6ifEY6S0Iy1nBk5hVt5BhnWJRqhB08gVEsVvS28=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529/go.mod h1:HEJVI7jQ/BnjiSiu2Wj934QboEAgdv47RNOqvZb+nRw=
 github.com/go-ruby-mail/mail v0.0.0-20260701122047-67f8e8ec1d6e h1:mBJm+ZY0JP4pKMEiIfTPcfUuGL+8ACLmQEVb3q/yu/E=
@@ -30,3 +32,5 @@ github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df h1:GQCDL
 github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
 github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949 h1:AKaD3EJnLRnPion6saBubFHnixB1aLiL0CUfWEG7OoM=
 github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
+github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4 h1:EIvstwqENPJeRTqTThNT/WPGbvdx/X+648QhaHJNk6M=
+github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
