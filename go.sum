@@ -20,6 +20,8 @@ github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a h1:hkd
 github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0 h1:pfa8IVHmOATwWPBnT3w2dwIYu9PJYxlMJFOjcvT+h5M=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0/go.mod h1:tIZ2td8/ApPpR4CfEJYKAelJ/RplKcaqvRm3NyEbiyY=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9 h1:/kCuWnIQXcsrHyBbGzz3M7peK51vDLHILbbZzgUGulg=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9/go.mod h1:OiExr+zPBkPSp5HwtWo1CccDaKL0fM/C5Qt0IE6PzMs=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7 h1:Wbj+Uo6Ke3wR0GrRr6GfgHhUe9wroG78Jaw7bVXRmlw=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7/go.mod h1:+aVqjlgBiR8H5b1t7tPht4OVAAYCxa/KPQAbv7WzC/M=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260717061712-16cc7b480fff h1:4NZJspcM3wfWBRapGKJtAMBvkZfC8CqfzyG0Oy9K34Y=
