@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/go-ruby-actioncable/actioncable v0.0.0-20260717061354-49297951bc19
 	github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260830121614-ca449d6abb1f
-	github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7
+	github.com/go-ruby-actionpack/actionpack v0.0.0-20260916090236-b987dbf76b25
 	github.com/go-ruby-actionview/actionview v0.0.0-20260826125716-4711e2afde65
 	github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a
 	github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9
