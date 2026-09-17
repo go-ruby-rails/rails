@@ -48,5 +48,7 @@ github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949 h1:AKaD3
 github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
 github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4 h1:EIvstwqENPJeRTqTThNT/WPGbvdx/X+648QhaHJNk6M=
 github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
+github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06 h1:JHBAlme9S1uMr/YDffLGpV13skiSHUVAgT8HCpwrI6A=
+github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
 golang.org/x/net v0.58.0 h1:ynWG7rqYi4ccpTEuPZ2QGWHktVEM9DMCj9yzDE0Q7To=
 golang.org/x/net v0.58.0/go.mod h1:YwCddHnFlT7eLQqVprV19OnhLGtc5xOKgE0RyqgfWAU=
