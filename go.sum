@@ -22,6 +22,8 @@ github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890 h1:InF
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
 github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a h1:hkdA+E7l8ROsz+rhxyhC0r8dukoun3uRRyjjf7q5nKs=
 github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
+github.com/go-ruby-activejob/activejob v0.0.0-20260916090346-271f6f8a2a0f h1:YmIL/sOEuRF75LnL6K6uYKE3kS9grsm0j9VQNjZrw3M=
+github.com/go-ruby-activejob/activejob v0.0.0-20260916090346-271f6f8a2a0f/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0 h1:pfa8IVHmOATwWPBnT3w2dwIYu9PJYxlMJFOjcvT+h5M=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0/go.mod h1:tIZ2td8/ApPpR4CfEJYKAelJ/RplKcaqvRm3NyEbiyY=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9 h1:/kCuWnIQXcsrHyBbGzz3M7peK51vDLHILbbZzgUGulg=
