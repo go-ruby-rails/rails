@@ -10,6 +10,8 @@ github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260826130123-195cd880b185 
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260826130123-195cd880b185/go.mod h1:lmJhhLFVbIhvXAEHagyfic4JIANbZ1N3zX8b6Zd0YaM=
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260830121614-ca449d6abb1f h1:m0DeNHXo798/0w8WW7ls8QirCRNPB7qBzLaGfEG13l8=
 github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260830121614-ca449d6abb1f/go.mod h1:XR+jzFM69DVFW2DRdCxvF/AJjNS51gHvMS05XgYW46Q=
+github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260923211205-26d6286e26bf h1:nV/BvjTL+2p46uot8D3PCJWBbDDKaZ0RwWvQpzZePVE=
+github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260923211205-26d6286e26bf/go.mod h1:ca1g1/e74YBcRglqxzTa8ME4B2rbxfuwXHj8V15hB/c=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9 h1:4XTbhTdWIviEAgIUcE3Qx6t8yaoz+bvoY3/isde7vww=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260706111722-fabad861ddb9/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7 h1:6I7TiTcN/9UwT8nuAr7FZCTYa+TUJvKIwveqnrkB8lQ=
@@ -22,6 +24,8 @@ github.com/go-ruby-actionview/actionview v0.0.0-20260825130933-98b7c44f4c14 h1:y
 github.com/go-ruby-actionview/actionview v0.0.0-20260825130933-98b7c44f4c14/go.mod h1:r3cP1hcxRxflbAS1vqeXQIJkAbyChCxe/GWBmfgnEXY=
 github.com/go-ruby-actionview/actionview v0.0.0-20260826125716-4711e2afde65 h1:V+c4vvkyQ/SQJwJl45ZGnNvd5rD0B5SiDgpNmhoYSZA=
 github.com/go-ruby-actionview/actionview v0.0.0-20260826125716-4711e2afde65/go.mod h1:dMo4duuB8Z9Pd2Cy8zSg5V7Z9UyoKaYSIGgi+22j+8s=
+github.com/go-ruby-actionview/actionview v0.0.0-20260916090312-73677dcf3f1f h1:FUFGkgm12HoPORb9Zzusye2stNd2xJx5Kt9GmBaEtXc=
+github.com/go-ruby-actionview/actionview v0.0.0-20260916090312-73677dcf3f1f/go.mod h1:CyEhiENu/KBV04u0j81azG0DSnVlAU+k/1ELLvTK0Ls=
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890 h1:InFlgdub55bYfZs7JFk1ToKS1SaJX8wrqgWuWBylPkI=
 github.com/go-ruby-activejob/activejob v0.0.0-20260706110325-09c7efd05890/go.mod h1:HBZ9KJKoGTzo4h6/5+gaYyzMYWQtucT660mE68zHZGw=
 github.com/go-ruby-activejob/activejob v0.0.0-20260717061550-62fd193d925a h1:hkdA+E7l8ROsz+rhxyhC0r8dukoun3uRRyjjf7q5nKs=
@@ -50,6 +54,8 @@ github.com/go-ruby-mail/mail v0.0.0-20260701122047-67f8e8ec1d6e h1:mBJm+ZY0JP4pK
 github.com/go-ruby-mail/mail v0.0.0-20260701122047-67f8e8ec1d6e/go.mod h1:YJN6l0WpGBz87UAbyHGqnH14iwABfjvrZPUunn9OrNs=
 github.com/go-ruby-mail/mail v0.0.0-20260717070235-fe48e8a63a7c h1:h+RWYqZv0XVtmtd+HHur06xfut+XhIIvsq6HmVyGsSU=
 github.com/go-ruby-mail/mail v0.0.0-20260717070235-fe48e8a63a7c/go.mod h1:YJN6l0WpGBz87UAbyHGqnH14iwABfjvrZPUunn9OrNs=
+github.com/go-ruby-mail/mail v0.0.0-20260916094742-929003e330ea h1:J9NSCbebb2Sb/WipXN1lO1Be2YKTX3BKb4KiONkD7l4=
+github.com/go-ruby-mail/mail v0.0.0-20260916094742-929003e330ea/go.mod h1:YJN6l0WpGBz87UAbyHGqnH14iwABfjvrZPUunn9OrNs=
 github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df h1:GQCDL/SGGtHqmDB2IfgCFe7AsgAA2LuhHg0kbbpYoFA=
 github.com/go-ruby-railties/railties v0.0.0-20260706120201-300b4fe0f2df/go.mod h1:AKDyiSCjqbfeZaNm8IsIUXao8ATsl2LQ9kdT5GaqYx4=
 github.com/go-ruby-railties/railties v0.0.0-20260717072905-7eccfe02d949 h1:AKaD3EJnLRnPion6saBubFHnixB1aLiL0CUfWEG7OoM=
@@ -60,3 +66,5 @@ github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06 h1:JHBAl
 github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
 golang.org/x/net v0.58.0 h1:ynWG7rqYi4ccpTEuPZ2QGWHktVEM9DMCj9yzDE0Q7To=
 golang.org/x/net v0.58.0/go.mod h1:YwCddHnFlT7eLQqVprV19OnhLGtc5xOKgE0RyqgfWAU=
+golang.org/x/net v0.59.0 h1:5zfYln+w5XCxwrnMMJPufRgNoXEaGxl0wo5GqPXyues=
+golang.org/x/net v0.59.0/go.mod h1:2DA/G1UfVbCpQPeWTmMPGY7Cs2PkBkwu743bVX5PIVg=
