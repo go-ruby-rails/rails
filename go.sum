@@ -32,6 +32,8 @@ github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0 h1
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260706105927-055e642437f0/go.mod h1:tIZ2td8/ApPpR4CfEJYKAelJ/RplKcaqvRm3NyEbiyY=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9 h1:/kCuWnIQXcsrHyBbGzz3M7peK51vDLHILbbZzgUGulg=
 github.com/go-ruby-activemodel/activemodel v0.0.0-20260825130957-8a1d518597d9/go.mod h1:OiExr+zPBkPSp5HwtWo1CccDaKL0fM/C5Qt0IE6PzMs=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260923211229-79f6029378bf h1:fW8qT//lHnqe8xI1hRPmeVYzSN7GiFwT7QNDN4ptkWc=
+github.com/go-ruby-activemodel/activemodel v0.0.0-20260923211229-79f6029378bf/go.mod h1:DhZXgevr0giSVgf1SQkhl02I17/nEYWwdRuSGeEAI7o=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7 h1:Wbj+Uo6Ke3wR0GrRr6GfgHhUe9wroG78Jaw7bVXRmlw=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260706105650-0dec40df7ca7/go.mod h1:+aVqjlgBiR8H5b1t7tPht4OVAAYCxa/KPQAbv7WzC/M=
 github.com/go-ruby-activestorage/activestorage v0.0.0-20260717061712-16cc7b480fff h1:4NZJspcM3wfWBRapGKJtAMBvkZfC8CqfzyG0Oy9K34Y=
@@ -42,6 +44,8 @@ github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc098
 github.com/go-ruby-activesupport/activesupport v0.0.0-20260706103309-88c190fc0983/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
 github.com/go-ruby-activesupport/activesupport v0.0.0-20260820071506-344413ecaa5f h1:dUPhMtIOtGvwnXLsgBZH3t/XsI7xANhtFg0knSp+mDw=
 github.com/go-ruby-activesupport/activesupport v0.0.0-20260820071506-344413ecaa5f/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260916090626-10f09966f037 h1:GZDluekMWuN22PJu4FaLktJQJt1jsJwvM0kQ0QeBJd4=
+github.com/go-ruby-activesupport/activesupport v0.0.0-20260916090626-10f09966f037/go.mod h1:ykSisArfgmpZFoV0y0irolshuOdSPyALFz/wWCJiaEE=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529 h1:md/l6ifEY6S0Iy1nBk5hVt5BhnWJRqhB08gVEsVvS28=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529/go.mod h1:HEJVI7jQ/BnjiSiu2Wj934QboEAgdv47RNOqvZb+nRw=
 github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45 h1:C4HnZxZAm46pyQfkE7ELXCyDisI3Buzg/cR4d2F8dlY=
