@@ -1,6 +1,6 @@
 module github.com/go-ruby-rails/rails
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-ruby-actioncable/actioncable v0.0.0-20260916090125-dc336dcdde77
