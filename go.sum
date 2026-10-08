@@ -68,6 +68,8 @@ github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4 h1:EIvst
 github.com/go-ruby-railties/railties v0.0.0-20260825131355-e3f5cf0a22b4/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
 github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06 h1:JHBAlme9S1uMr/YDffLGpV13skiSHUVAgT8HCpwrI6A=
 github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06/go.mod h1:4N0PRCdUd//kP98OG2S4Nu73FaBWzhSWDW+EYaVmPXQ=
+github.com/go-ruby-railties/railties v0.0.0-20261007113040-4e2ee6c493cc h1:cRyIm0GUuf1il5dZyy48ewm5wnC1V5yZKnZBLfkCHHA=
+github.com/go-ruby-railties/railties v0.0.0-20261007113040-4e2ee6c493cc/go.mod h1:Z4+I+1y0YRyTHueqmozCj26YUxFI0UKrjLdDa+bpDGQ=
 golang.org/x/net v0.58.0 h1:ynWG7rqYi4ccpTEuPZ2QGWHktVEM9DMCj9yzDE0Q7To=
 golang.org/x/net v0.58.0/go.mod h1:YwCddHnFlT7eLQqVprV19OnhLGtc5xOKgE0RyqgfWAU=
 golang.org/x/net v0.59.0 h1:5zfYln+w5XCxwrnMMJPufRgNoXEaGxl0wo5GqPXyues=

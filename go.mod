@@ -11,7 +11,7 @@ require (
 	github.com/go-ruby-activemodel/activemodel v0.0.0-20260923211229-79f6029378bf
 	github.com/go-ruby-activestorage/activestorage v0.0.0-20260916090555-d36e120608b9
 	github.com/go-ruby-activesupport/activesupport v0.0.0-20260916090626-10f09966f037
-	github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06
+	github.com/go-ruby-railties/railties v0.0.0-20261007113040-4e2ee6c493cc
 )
 
 require (
