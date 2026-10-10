@@ -3,7 +3,7 @@ module github.com/go-ruby-rails/rails
 go 1.27.1
 
 require (
-	github.com/go-ruby-actioncable/actioncable v0.0.0-20260916090125-dc336dcdde77
+	github.com/go-ruby-actioncable/actioncable v0.0.0-20261010102347-a7a151e82412
 	github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260923211205-26d6286e26bf
 	github.com/go-ruby-actionpack/actionpack v0.0.0-20260916090236-b987dbf76b25
 	github.com/go-ruby-actionview/actionview v0.0.0-20260916090312-73677dcf3f1f
