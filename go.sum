@@ -18,6 +18,8 @@ github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7 h1:6
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260717061451-b97002255cd7/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260916090236-b987dbf76b25 h1:XRCqUUtIBECHpFKHThYPe3bNG2PhGzoQrDLKPtVEhtM=
 github.com/go-ruby-actionpack/actionpack v0.0.0-20260916090236-b987dbf76b25/go.mod h1:3lXE8Ou6UitS4sOxQhn/KCI6eKLdREUcFxsky4oMEbk=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20261010102452-67a1d71146a4 h1:qJ8v9YGp4FVz+/QImXh2P1SgvFT4fn6JXh5O57lpkA4=
+github.com/go-ruby-actionpack/actionpack v0.0.0-20261010102452-67a1d71146a4/go.mod h1:yZFRC0Tp9j1nTAPG4wGJ9VU2wCf8F7bChRfTYTZne1o=
 github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b h1:WZ+4J0wis7E0utwvCnmAIZ7YtthcT5idKJrQurU8RZw=
 github.com/go-ruby-actionview/actionview v0.0.0-20260706111627-1e5c89a2d01b/go.mod h1:n9SEnqxWmYIXKgtrIZEiRvGui0lWdCd2GJELRpa44ls=
 github.com/go-ruby-actionview/actionview v0.0.0-20260825130933-98b7c44f4c14 h1:yAwk/bMaPTj7mP59Xff/UJLEM9UfdT6mOgSGBNsnkXA=
