@@ -10,7 +10,7 @@ require (
 	github.com/go-ruby-activejob/activejob v0.0.0-20260916090346-271f6f8a2a0f
 	github.com/go-ruby-activemodel/activemodel v0.0.0-20260923211229-79f6029378bf
 	github.com/go-ruby-activestorage/activestorage v0.0.0-20260916090555-d36e120608b9
-	github.com/go-ruby-activesupport/activesupport v0.0.0-20260916090626-10f09966f037
+	github.com/go-ruby-activesupport/activesupport v0.0.0-20261010102820-3ef4fda78f1a
 	github.com/go-ruby-railties/railties v0.0.0-20260916101326-3a999a032a06
 )
 
