@@ -7,7 +7,7 @@ require (
 	github.com/go-ruby-actionmailer/actionmailer v0.0.0-20260923211205-26d6286e26bf
 	github.com/go-ruby-actionpack/actionpack v0.0.0-20260916090236-b987dbf76b25
 	github.com/go-ruby-actionview/actionview v0.0.0-20260916090312-73677dcf3f1f
-	github.com/go-ruby-activejob/activejob v0.0.0-20260916090346-271f6f8a2a0f
+	github.com/go-ruby-activejob/activejob v0.0.0-20261010102558-39f8abf74db5
 	github.com/go-ruby-activemodel/activemodel v0.0.0-20260923211229-79f6029378bf
 	github.com/go-ruby-activestorage/activestorage v0.0.0-20260916090555-d36e120608b9
 	github.com/go-ruby-activesupport/activesupport v0.0.0-20260916090626-10f09966f037
