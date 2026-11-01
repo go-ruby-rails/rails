@@ -17,5 +17,5 @@ require (
 require (
 	github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45 // indirect
 	github.com/go-ruby-mail/mail v0.0.0-20260916094742-929003e330ea // indirect
-	golang.org/x/net v0.59.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 )
